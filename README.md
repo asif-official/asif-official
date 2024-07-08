@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @asif-official
-- 👀 I’m interested in real li9ife problem solving
+- 👋 Hi, I’m K M Asifur Rahman
+- 👀 I’m interested in real life problem solving
 - 🌱 I’m currently learning python anf ml models
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
